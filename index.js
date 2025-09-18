@@ -76,6 +76,22 @@ client.on("message", async (msg) => {
 				}
 			} catch (err) {
 				console.error("[API ERROR]", err.message);
+
+				if (err.response) {
+					// Error dari server API (status 4xx / 5xx)
+					console.error("[API RESPONSE ERROR]", {
+						status: err.response.status,
+						headers: err.response.headers,
+						data: err.response.data,
+					});
+				} else if (err.request) {
+					// Request sudah dikirim tapi tidak ada respon
+					console.error("[API NO RESPONSE]", err.request);
+				} else {
+					// Error lain (misal setup axios salah)
+					console.error("[API SETUP ERROR]", err);
+				}
+
 				await msg.reply("⚠️ Maaf, server AI sedang error.");
 			}
 		}

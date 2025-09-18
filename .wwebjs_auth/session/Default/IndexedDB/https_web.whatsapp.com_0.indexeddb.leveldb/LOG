@@ -1,46 +1,15 @@
-2025/09/14-22:45:43.932 194d Reusing MANIFEST /home/nao/Documents/projectBotWa/python/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/09/14-22:45:43.932 194d Recovering log #159
-2025/09/14-22:45:43.936 194d Reusing old log /home/nao/Documents/projectBotWa/python/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000159.log 
-2025/09/14-22:45:48.524 1949 Level-0 table #165: started
-2025/09/14-22:45:48.528 1949 Level-0 table #165: 76334 bytes OK
-2025/09/14-22:45:48.530 1949 Delete type=0 #159
-2025/09/14-22:45:48.531 1949 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/09/14-22:45:50.619 194d Compacting 1@1 + 2@2 files
-2025/09/14-22:45:50.664 194d Generated table #166@1: 70743 keys, 2236732 bytes
-2025/09/14-22:45:50.708 194d Generated table #167@1: 32352 keys, 1741586 bytes
-2025/09/14-22:45:50.708 194d Compacted 1@1 + 2@2 files => 3978318 bytes
-2025/09/14-22:45:50.710 194d compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/09/14-22:45:56.148 1973 Level-0 table #169: started
-2025/09/14-22:45:56.165 1973 Level-0 table #169: 1200328 bytes OK
-2025/09/14-22:45:56.167 1973 Delete type=2 #161
-2025/09/14-22:45:56.167 1973 Delete type=2 #162
-2025/09/14-22:45:56.167 1973 Delete type=0 #164
-2025/09/14-22:45:56.167 1973 Delete type=2 #165
-2025/09/14-22:45:56.324 194f Compacting 1@1 + 2@2 files
-2025/09/14-22:45:56.392 194f Generated table #170@1: 71690 keys, 2238006 bytes
-2025/09/14-22:45:56.426 194f Generated table #171@1: 32838 keys, 1599793 bytes
-2025/09/14-22:45:56.426 194f Compacted 1@1 + 2@2 files => 3837799 bytes
-2025/09/14-22:45:56.427 194f compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/09/14-22:46:39.719 1973 Level-0 table #173: started
-2025/09/14-22:46:39.757 1973 Level-0 table #173: 1316235 bytes OK
-2025/09/14-22:46:39.759 1973 Delete type=2 #166
-2025/09/14-22:46:39.759 1973 Delete type=0 #168
-2025/09/14-22:46:39.759 1973 Delete type=2 #167
-2025/09/14-22:46:39.759 1973 Delete type=2 #169
-2025/09/14-22:46:55.603 194d Compacting 1@1 + 2@2 files
-2025/09/14-22:46:55.656 194d Generated table #174@1: 73166 keys, 2235449 bytes
-2025/09/14-22:46:55.687 194d Generated table #175@1: 35398 keys, 1799218 bytes
-2025/09/14-22:46:55.687 194d Compacted 1@1 + 2@2 files => 4034667 bytes
-2025/09/14-22:46:55.689 194d compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/09/14-22:46:55.689 194d Delete type=2 #170
-2025/09/14-22:46:55.689 194d Delete type=2 #171
-2025/09/14-22:46:55.689 194d Delete type=2 #173
-2025/09/14-22:50:52.221 1973 Level-0 table #177: started
-2025/09/14-22:50:52.235 1973 Level-0 table #177: 945060 bytes OK
-2025/09/14-22:50:52.237 1973 Delete type=0 #172
-2025/09/14-22:50:52.237 1973 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/09/14-22:50:52.499 194d Compacting 1@1 + 2@2 files
-2025/09/14-22:50:52.575 194d Generated table #178@1: 73686 keys, 2240873 bytes
-2025/09/14-22:50:52.617 194d Generated table #179@1: 34217 keys, 1767134 bytes
-2025/09/14-22:50:52.617 194d Compacted 1@1 + 2@2 files => 4008007 bytes
-2025/09/14-22:50:52.619 194d compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/09/18-13:49:14.283 2585a Reusing MANIFEST /home/nao/Documents/projectBotWa/python/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/18-13:49:14.283 2585a Recovering log #199
+2025/09/18-13:49:14.319 2585a Reusing old log /home/nao/Documents/projectBotWa/python/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000199.log 
+2025/09/18-13:49:16.412 25854 Level-0 table #205: started
+2025/09/18-13:49:16.425 25854 Level-0 table #205: 325297 bytes OK
+2025/09/18-13:49:16.427 25854 Delete type=0 #199
+2025/09/18-13:49:16.427 25854 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/18-13:49:18.604 2585a Compacting 1@1 + 2@2 files
+2025/09/18-13:49:18.692 2585a Generated table #206@1: 78892 keys, 2244079 bytes
+2025/09/18-13:49:18.757 2585a Generated table #207@1: 38581 keys, 2136795 bytes
+2025/09/18-13:49:18.757 2585a Compacted 1@1 + 2@2 files => 4380874 bytes
+2025/09/18-13:49:18.759 2585a compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/09/18-13:49:18.759 2585a Delete type=2 #201
+2025/09/18-13:49:18.759 2585a Delete type=2 #202
+2025/09/18-13:49:18.759 2585a Delete type=2 #205
